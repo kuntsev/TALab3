@@ -25,7 +25,8 @@ public class GlobalExceptionHandler {
         ModelAndView modelAndView = new ModelAndView("/error");
         String errorMessage = (throwable != null ? throwable.toString() : "Unknown error");
         modelAndView.addObject("errorMessage", errorMessage);
-        Integer t = new Integer (5);
+        Integer 1t = new Integer (5);
+        1t = new Integer (56);
         return modelAndView;
 
 
