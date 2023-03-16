@@ -27,6 +27,7 @@ public class GlobalExceptionHandler {
         modelAndView.addObject("errorMessage", errorMessage);
         Integer 1t = new Integer (5);
         1t = new Integer (56);
+
         return modelAndView;
 
 
