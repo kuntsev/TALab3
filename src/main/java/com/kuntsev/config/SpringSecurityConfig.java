@@ -31,13 +31,16 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
     private String adminUsername;
 
     @Value("${spring.admin.username}")
-    private String adminPassword;
+
+
+
+           private String adminPassword;
 
     @Value("${spring.queries.users-query}")
     private String usersQuery;
 
     @Value("${spring.queries.roles-query}")
-    private String rolesQuery;
+        private String rolesQuery;
 
     @Autowired
     public SpringSecurityConfig(AccessDeniedHandler accessDeniedHandler, DataSource dataSource) {
