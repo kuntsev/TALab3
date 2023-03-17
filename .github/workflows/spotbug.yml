@@ -26,7 +26,5 @@ jobs:
     - name: Push SpotBugs report
       uses: jwgmeligmeyling/spotbugs-github-action@v1.2
       with:
-        repository: kuntsev/TALab3
-        ref: TALab3/target
-        path: spotbug
+        path: TALab3/target/spotbug.xml
 
