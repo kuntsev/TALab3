@@ -23,3 +23,6 @@ jobs:
     - uses: jwgmeligmeyling/spotbugs-github-action@master
       with:
         path: '**/spotbugsXml.xml'
+    - name: Push SpotBugs report
+      uses: jwgmeligmeyling/spotbugs-github-action@v1.2
+
