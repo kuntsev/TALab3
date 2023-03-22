@@ -1,9 +1,9 @@
-package com.reljicd.service.impl;
+package com.kuntsev.service.impl;
 
-import com.reljicd.model.User;
-import com.reljicd.repository.RoleRepository;
-import com.reljicd.repository.UserRepository;
-import com.reljicd.service.UserService;
+import com.kuntsev.model.User;
+import com.kuntsev.repository.RoleRepository;
+import com.kuntsev.repository.UserRepository;
+import com.kuntsev.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

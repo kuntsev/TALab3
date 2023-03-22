@@ -1,4 +1,4 @@
-package com.reljicd.model;
+package com.kuntsev.model;
 
 import javax.persistence.*;
 import java.util.Collection;

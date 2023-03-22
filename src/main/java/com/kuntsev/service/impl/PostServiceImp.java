@@ -1,9 +1,9 @@
-package com.reljicd.service.impl;
+package com.kuntsev.service.impl;
 
-import com.reljicd.model.Post;
-import com.reljicd.model.User;
-import com.reljicd.repository.PostRepository;
-import com.reljicd.service.PostService;
+import com.kuntsev.model.Post;
+import com.kuntsev.model.User;
+import com.kuntsev.repository.PostRepository;
+import com.kuntsev.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

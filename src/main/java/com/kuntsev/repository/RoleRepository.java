@@ -1,6 +1,6 @@
-package com.reljicd.repository;
+package com.kuntsev.repository;
 
-import com.reljicd.model.Role;
+import com.kuntsev.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 

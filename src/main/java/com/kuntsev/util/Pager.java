@@ -1,6 +1,6 @@
-package com.reljicd.util;
+package com.kuntsev.util;
 
-import com.reljicd.model.Post;
+import com.kuntsev.model.Post;
 import org.springframework.data.domain.Page;
 
 /**

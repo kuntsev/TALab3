@@ -1,6 +1,6 @@
-package com.reljicd.service;
+package com.kuntsev.service;
 
-import com.reljicd.model.User;
+import com.kuntsev.model.User;
 
 import java.util.Optional;
 

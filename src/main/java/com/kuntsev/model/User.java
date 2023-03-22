@@ -1,4 +1,4 @@
-package com.reljicd.model;
+package com.kuntsev.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.validator.constraints.Email;

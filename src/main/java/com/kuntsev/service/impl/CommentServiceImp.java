@@ -1,8 +1,8 @@
-package com.reljicd.service.impl;
+package com.kuntsev.service.impl;
 
-import com.reljicd.model.Comment;
-import com.reljicd.repository.CommentRepository;
-import com.reljicd.service.CommentService;
+import com.kuntsev.model.Comment;
+import com.kuntsev.repository.CommentRepository;
+import com.kuntsev.service.CommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,10 +1,10 @@
-package com.reljicd.controller;
+package com.kuntsev.controller;
 
-import com.reljicd.model.Post;
-import com.reljicd.model.User;
-import com.reljicd.service.PostService;
-import com.reljicd.service.UserService;
-import com.reljicd.util.Pager;
+import com.kuntsev.model.Post;
+import com.kuntsev.model.User;
+import com.kuntsev.service.PostService;
+import com.kuntsev.service.UserService;
+import com.kuntsev.util.Pager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;

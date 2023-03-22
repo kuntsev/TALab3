@@ -1,6 +1,6 @@
-package com.reljicd.service;
+package com.kuntsev.service;
 
-import com.reljicd.model.Comment;
+import com.kuntsev.model.Comment;
 
 public interface CommentService {
 

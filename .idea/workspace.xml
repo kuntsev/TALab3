@@ -5,7 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21376e5a-3fae-4cf9-bb45-6c35a82cc3f4" name="Changes" comment="small changes">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/CommentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/CommentServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/PostServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/PostServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/service/impl/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuntsev/util/Pager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuntsev/util/Pager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kuntsev/model/CommentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kuntsev/model/CommentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/config/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/reljicd/config/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/config/SpringSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/reljicd/config/SpringSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/controller/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/controller/PostController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/controller/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/model/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/model/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/repository/CommentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/repository/PostRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/repository/RoleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/PostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/impl/CommentServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/impl/PostServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/service/impl/UserServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reljicd/util/Pager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/reljicd/model/CommentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/kuntsev/model/CommentTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +69,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,11 +101,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/kuntsev/Documents/univer/2022/TA/1/Lab1/spring-boot-blog-master",
+    "last_opened_file_path": "C:/Users/kuntsev/Documents/univer/2022/TA/Lab3/spring-boot-blog-master/TALab3",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,7 +116,7 @@
       <recent name="com.reljicd.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="JUnit.CommentTest">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -86,8 +134,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.reljicd.model" />
-      <option name="MAIN_CLASS_NAME" value="com.reljicd.model.CommentTest" />
+      <option name="PACKAGE_NAME" value="com.kuntsev.model" />
+      <option name="MAIN_CLASS_NAME" value="com.kuntsev.model.CommentTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
@@ -122,6 +170,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.CommentTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CommentTest" />

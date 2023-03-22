@@ -1,7 +1,7 @@
-package com.reljicd.repository;
+package com.kuntsev.repository;
 
-import com.reljicd.model.Post;
-import com.reljicd.model.User;
+import com.kuntsev.model.Post;
+import com.kuntsev.model.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package com.reljicd.model;
+package com.kuntsev.model;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
@@ -20,7 +20,7 @@ public class CommentTest {
     @Test
     void save_newComment_commentIsPersisted() {
         // Arrange
-        Comment comment = new Comment();
+        com.kuntsev.model.Comment comment = new Comment();
         comment.setBody("This is a test comment");
         comment.setCreateDate(new Date());
         Post post = entityManager.find(Post.class, new Integer(1));

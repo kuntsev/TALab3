@@ -1,11 +1,11 @@
-package com.reljicd.controller;
+package com.kuntsev.controller;
 
-import com.reljicd.model.Comment;
-import com.reljicd.model.Post;
-import com.reljicd.model.User;
-import com.reljicd.service.CommentService;
-import com.reljicd.service.PostService;
-import com.reljicd.service.UserService;
+import com.kuntsev.model.Comment;
+import com.kuntsev.model.Post;
+import com.kuntsev.model.User;
+import com.kuntsev.service.CommentService;
+import com.kuntsev.service.PostService;
+import com.kuntsev.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

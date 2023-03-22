@@ -1,7 +1,7 @@
-package com.reljicd.service;
+package com.kuntsev.service;
 
-import com.reljicd.model.Post;
-import com.reljicd.model.User;
+import com.kuntsev.model.Post;
+import com.kuntsev.model.User;
 import org.springframework.data.domain.Page;
 
 import java.util.Optional;

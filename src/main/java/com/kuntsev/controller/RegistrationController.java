@@ -1,7 +1,7 @@
-package com.reljicd.controller;
+package com.kuntsev.controller;
 
-import com.reljicd.model.User;
-import com.reljicd.service.UserService;
+import com.kuntsev.model.User;
+import com.kuntsev.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

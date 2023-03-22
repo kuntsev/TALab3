@@ -1,6 +1,6 @@
-package com.reljicd.repository;
+package com.kuntsev.repository;
 
-import com.reljicd.model.Comment;
+import com.kuntsev.model.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CommentRepository extends JpaRepository<Comment, Long> {
