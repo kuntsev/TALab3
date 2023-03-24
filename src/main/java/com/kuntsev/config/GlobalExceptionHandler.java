@@ -1,4 +1,4 @@
-package com.reljicd.config;
+package com.kuntsev.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * Global exception handler 1
+ * Global exception handler
  */
 @ControllerAdvice
 public class GlobalExceptionHandler {
@@ -20,14 +20,12 @@ public class GlobalExceptionHandler {
     @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
     public ModelAndView exception(final Throwable throwable) {
 
-           logger.error("Exception during execution of SpringSecurity application", throwable);
-    Integer t =new Integer (5);
-    t=new Integer (6);
-         ModelAndView modelAndView = new ModelAndView("/error");
+        logger.error("Exception during execution of SpringSecurity application", throwable);
+
+        ModelAndView modelAndView = new ModelAndView("/error");
         String errorMessage = (throwable != null ? throwable.toString() : "Unknown error");
         modelAndView.addObject("errorMessage", errorMessage);
-  return modelAndView;
-
-                    }
+        return modelAndView;
+    }
 
 }

@@ -4,7 +4,7 @@ import com.kuntsev.model.Post;
 import org.springframework.data.domain.Page;
 
 /**
- * @author Dusan Raljic
+ * @author kuntsev
  */
 public class Pager {
 
